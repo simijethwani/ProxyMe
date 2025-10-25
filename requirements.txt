@@ -1,0 +1,7 @@
+whisper
+torch
+soundfile
+pydub
+streamlit
+pyyaml
+pyautogui
